@@ -132,7 +132,7 @@ By the end of this project, we expect to:
    pip install -r requirements.txt
    ```
 
-## Author 
+## Authors 
 **Yonathan Shimelis**  
 M.S. Data Science  
 The George Washington University 
