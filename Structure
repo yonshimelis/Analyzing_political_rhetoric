@@ -1,0 +1,21 @@
+presidential-nlp/
+│
+├── data/
+│   └── presidential_statements_scraped.csv
+│
+├── src/
+│   ├── preprocess.py
+│   ├── sentiment.py
+│   ├── topics.py
+│   ├── classifier.py
+│   ├── ner.py
+│   ├── summarizer.py
+│   └── rag_engine.py
+│
+├── app/
+│   └── streamlit_app.py
+│
+├── notebooks/
+│   └── (optional: EDA / experiments)
+│
+└── requirements.txt
