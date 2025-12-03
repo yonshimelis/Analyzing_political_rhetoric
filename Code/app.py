@@ -294,7 +294,7 @@ with tab_pred:
     st.subheader("🔮 Predict Which President a Speech Resembles")
 
     st.markdown("""
-This tab uses your **trained models**:
+This tab uses  **trained models**:
 - Baseline **TF-IDF + Logistic Regression**
 - **BiLSTM + Attention (GloVe)** with smart sampling & Focal Loss
 - **DistilBERT** 
