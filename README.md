@@ -6,16 +6,15 @@ This project analyzes U.S. presidential speeches to study how rhetoric, emotion,
 ---
 
 ## Methods
-- **Sentiment Analysis:** VADER, FinBERT  
-- **Topic Modeling:** Latent Dirichlet Allocation (LDA)  
+- **Sentiment Analysis:** Transformer,  
+- **Topic Modeling:** Latent Dirichlet Allocation (LDA), Gensim, NMF  
 - **Classification:** Naive Bayes, Logistic Regression, LSTM  
 - **Interpretability:** SHAP, LIME  
 
 ---
 
-## Dataset
-- **Primary Source:** [Miller Center Presidential Speech Archive](https://data.millercenter.org/)  
-- **Supplementary Source:** [American Presidency Project](https://www.presidency.ucsb.edu/)  
+## Dataset 
+- **Primary Source:** [American Presidency Project](https://www.presidency.ucsb.edu/)  
 
 ---
 
